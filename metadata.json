@@ -1,0 +1,6 @@
+{
+  "name": "SR. Technology - متجر إس آر تكنولوجي",
+  "description": "متجر إلكتروني متكامل لعرض أحدث أجهزة اللابتوب، الماوسات، لوحات المفاتيح وملحقات الكمبيوتر مع تفاصيل المواصفات الفنية والطلب المباشر أونلاين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
